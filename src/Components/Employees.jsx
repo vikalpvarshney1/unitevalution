@@ -38,6 +38,7 @@ const Employees = () => {
           
            
             <div className='postertitle'>
+            <h4 style={{margin: "0px"}}>{post.id}</h4>
             <h4 style={{margin: "0px"}}>{post.name}</h4>
             <p style={{margin: "0px"}}>{post.email}</p>
             <p style={{margin: "0px"}}>{post.Password} </p>
