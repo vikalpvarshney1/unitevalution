@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 2,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 3,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 4,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 5,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 6,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 7,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    },
+    {
+      "id": 8,
+      "name": "vikalp",
+      "email": "vikalpvarshney012@hmail.com",
+      "password": "viiii11",
+      "username": "vikalpvarshney"
+
+    }
+  ]
+}
